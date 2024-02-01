@@ -1,0 +1,17 @@
+{
+  "name": "lab3_restaurant_database",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Lab 03. Restaurant collection management system",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Korenevskiy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  }
+}
